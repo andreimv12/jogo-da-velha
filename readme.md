@@ -1,0 +1,1 @@
+na função winner do arquivo java script acabei fazendo muitas verificações, é provavel que uma pessoa mais experiente conseguisse ter o mesmo resultado com menos linhas de codigo. Comecei este projetinho com a entenção de nao faser buscas atras de soluções no google ou em video aulas para ver o conhecimento que eu ja tinha adquerido e armazenado.
