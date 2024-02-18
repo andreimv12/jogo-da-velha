@@ -7,7 +7,6 @@ const quadro = {
 let vez = 'O';
 let infoWinner = "";
 let playng = true;
-let random =Math.floor(Math.random()*2);
 let turn = "x";
 let rotate = 0;
 //eventos
